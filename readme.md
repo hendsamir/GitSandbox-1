@@ -1,8 +1,8 @@
-
-your repo has been hacked
+this repo has been restored :D
 
 @boha hacker
  XXXXXX msh e7na ly yt3lm 3lena @openSource
+Take care Mr Boha :3 
 
 3. Install git.
 4. Configure your git
@@ -19,3 +19,4 @@ your repo has been hacked
 15. Add your classmate repo
 16. Create a branch using your name as title for the directory.
 17. Add tag to the current commit
+>>>>>>> 5d94c09c0fc8cd3b614e6abbd87391d93a8fe837
