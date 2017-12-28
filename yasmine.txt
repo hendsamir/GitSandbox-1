@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hey ..
 i'm yasmine, iot student :D 
+=======
+hey ...... i am nada
+>>>>>>> cf72db8b206a602fa6ad2591ba83371e239dda25
