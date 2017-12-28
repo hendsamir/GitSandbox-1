@@ -1,9 +1,4 @@
-# DON NOT MISS WITH INTAKE 37!
-~~this repo has been restored :D~~
-
-@boha hacker
- ~~XXXXXX msh e7na ly yt3lm 3lena @openSource~~
-~~Take care Mr Boha :3 ~~
+Git Course by Boha Hacker
 
 3. Install git.
 4. Configure your git
@@ -20,3 +15,4 @@
 15. Add your classmate repo
 16. Create a branch using your name as title for the directory.
 17. Add tag to the current commit
+
