@@ -1,2 +1,10 @@
 Hello
-David Salib
+David 
+dasdjhyhduf
+<<<<<<< HEAD
+Go out of Here
+=======
+mldskfmsdf
+
+Nawwart ya david
+>>>>>>> 2ee8bb47009ff7dcf7ba3e0582ecea8f2a675d64

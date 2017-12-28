@@ -1,0 +1,18 @@
+hi there its george samir
+iti open source intake 38
+enjoy your life as much as you can
+DO NOT DELETE DATA you can add ;) 
+hi georgeeeeeeee --> Mina
+
+Dollars kteeeeer :D 
+
+
+<<<<<<< HEAD
+MR. Freelancer
+
+la yaragel :D----> Mina
+=======
+
+AAwad was here hahahahaha :)
+
+marry christmas george Assem was here :D
