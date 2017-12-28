@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 this repo has been restored :D
-=======
-
-your repo has been hacked
 
 @boha hacker
  XXXXXX msh e7na ly yt3lm 3lena @openSource
