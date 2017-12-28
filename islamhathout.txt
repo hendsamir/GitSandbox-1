@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi,
 
 My name is Islam Hathout and i am a student in the OS IoT track.
+=======
+hello Islam it's me .. Rania
+Hello Louma its yousry
+>>>>>>> 38de79a515291fce004f68025591b1e3597d46f3
