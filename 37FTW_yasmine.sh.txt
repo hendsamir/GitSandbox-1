@@ -1,6 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+hey ......bye yasmin
+=======
+hey ...... i am nada
+>>>>>>> 03c90007eaae13e1870de930249a83d93213efcf
+=======
 hey ..
 i'm yasmine, iot student :D 
 =======
 hey ...... i am nada
 >>>>>>> cf72db8b206a602fa6ad2591ba83371e239dda25
+>>>>>>> f20f505eea63fbcd221231824f0aad5a634ecb6d
+mena
