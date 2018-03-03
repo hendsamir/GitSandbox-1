@@ -1,1 +1,2 @@
-echo Marei
+#!/bin/bash
+echo Marei Morsy
